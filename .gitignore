@@ -1,0 +1,21 @@
+# Somente documentação, scripts e manifests devem ser versionados.
+/build/
+/downloads/
+/backups/
+__pycache__/
+*.py[cod]
+*.rpm
+*.tar*
+*.dat
+*.keyring*
+*.keystore
+*.ctx
+*.enc
+*.priv
+*.pub
+*.pem
+*.key
+*.log
+.env*
+.tpm/
+credstore*/
